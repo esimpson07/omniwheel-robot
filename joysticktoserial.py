@@ -2,7 +2,6 @@ import serial
 import time
 from time import sleep
 from inputs import get_gamepad
-from threading import Thread
 
 lx = 200
 ly = 200
